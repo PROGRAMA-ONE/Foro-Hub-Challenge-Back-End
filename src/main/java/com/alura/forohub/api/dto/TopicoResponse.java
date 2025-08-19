@@ -1,4 +1,4 @@
-package com.alura.forohub.api;
+package com.alura.forohub.api.dto;
 
 import java.time.LocalDateTime;
 

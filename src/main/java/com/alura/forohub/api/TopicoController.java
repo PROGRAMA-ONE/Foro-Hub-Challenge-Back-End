@@ -1,7 +1,8 @@
 package com.alura.forohub.api;
 
-import com.alura.forohub.api.TopicoCreateRequest;
-import com.alura.forohub.api.TopicoResponse;
+import com.alura.forohub.api.dto.TopicoCreateRequest;
+import com.alura.forohub.api.dto.TopicoResponse;
+import com.alura.forohub.api.dto.TopicoUpdateRequest;
 import com.alura.forohub.model.Topico;
 import com.alura.forohub.service.TopicoService;
 import jakarta.validation.Valid;
