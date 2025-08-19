@@ -45,7 +45,7 @@ La aplicación permite a los usuarios autenticados crear, listar, actualizar y e
 
 1. **Clonar el repositorio**
 ```bash
-   git clone https://github.com/usuario/forohub.git
+   git clone https://github.com/PROGRAMA-ONE/Foro-Hub-Challenge-Back-End
    cd forohub
 ```
 2. Configurar base de datos
