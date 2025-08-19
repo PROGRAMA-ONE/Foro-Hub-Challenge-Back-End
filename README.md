@@ -1,4 +1,4 @@
-# FórumHub API
+# Challenge Foro Hub
 
 Sistema de gestión de foros desarrollado en **Java 17** con **Spring Boot 3**, **Spring Security** y **JWT** para autenticación.  
 La aplicación permite a los usuarios autenticados crear, listar, actualizar y eliminar **tópicos**, además de gestionar la autenticación mediante tokens.
